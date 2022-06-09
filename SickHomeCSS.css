@@ -1,0 +1,59 @@
+.photo{
+    width: 100%;
+}
+.cerkva{
+   text-align: center;
+    width: 100%;
+}
+.photoo{
+    width: 100%  ;
+}
+.container-fluid{
+    background-color:rgb(44, 7, 44);
+}
+.number2{ 
+    background-color: (44, 7, 44);
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.nav-item .nav-link{
+    color: white !important;
+}
+.number1{ 
+    background-color: (44, 7, 44);
+    margin-bottom: 150px;
+    padding-top: 50px;
+    margin-left: 150px;
+}
+.number3{ 
+    background-color: (44, 7, 44);
+    padding-bottom: 150px;
+    padding-top: 50px;
+    margin-right: 150px;
+}
+footer{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: gray;
+}
+.socio-link{
+    font-size: 2.3rem;
+    color: lightgray;
+    text-decoration: none;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+.socio-link:hover{
+    color: aqua;
+    text-shadow: 0px 0px 7px white;
+}
+.Texter{
+    background-color: rgba(187, 183, 183, 0.707);
+    padding: 50px;
+
+    
+}
+.navbar{
+    margin: 0%;
+}
